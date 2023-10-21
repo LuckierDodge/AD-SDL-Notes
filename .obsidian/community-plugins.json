@@ -24,5 +24,7 @@
   "workspaces-plus",
   "obisidian-note-linker",
   "mermaid-tools",
-  "obsidian-heading-shifter"
+  "obsidian-heading-shifter",
+  "recent-files-obsidian",
+  "obsidian-git"
 ]
