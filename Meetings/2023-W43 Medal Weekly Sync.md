@@ -3,4 +3,8 @@
 - Are we doing videos?  Unclear
 - Lot of basic stuff doesn't require code jupyter/notebooks
 - Add Emily Dietrich (sp?)
+- Deliverable
+	- Video
+	- Script (Text + Images)
+	- Jupyter Notebooks
 - 
