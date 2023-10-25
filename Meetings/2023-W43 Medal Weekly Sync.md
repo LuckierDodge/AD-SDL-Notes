@@ -7,4 +7,5 @@
 	- Video
 	- Script (Text + Images)
 	- Jupyter Notebooks
+- Write Rough Draft of Script for WEI (Practical) and WEI Conceptual
 - 
