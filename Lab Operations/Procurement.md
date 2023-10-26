@@ -3,4 +3,4 @@
 - [ ] Cameras
 	- [ ] [Amcrest](https://amcrest.com/)
 	- [ ] [Reolink](https://reolink.com/us/)
-- [ ] Bigger Trash Can
+- [x] Bigger Trash Can
