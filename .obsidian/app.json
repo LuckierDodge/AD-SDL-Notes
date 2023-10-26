@@ -1,6 +1,10 @@
 {
+  "showLineNumber": true,
   "autoPairMarkdown": false,
   "vimMode": true,
-  "showInlineTitle": false,
-  "alwaysUpdateLinks": true
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "!Logistics/Attachments",
+  "showInlineTitle": false
 }
