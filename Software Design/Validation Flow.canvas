@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"65a1fb5470aa5b37","type":"text","text":"# WEI","x":-60,"y":-70,"width":250,"height":60},
+		{"id":"d7d0ee819ccd9cc8","type":"text","text":"# Module 1","x":480,"y":-280,"width":250,"height":53},
+		{"id":"8dfb0c677c56c54d","type":"text","text":"# Module 2","x":480,"y":-70,"width":250,"height":60},
+		{"id":"0ab64024c57bcd2f","type":"text","text":"...","x":480,"y":160,"width":250,"height":60},
+		{"id":"9d7335c68e7aa62a","type":"text","text":"# Brian's Shit™️","x":-680,"y":-90,"width":315,"height":101},
+		{"id":"57b3dd6ca37dc57a","x":-300,"y":-19,"width":193,"height":60,"type":"text","text":"workflow.yaml"}
+	],
+	"edges":[
+		{"id":"80f4895fc050e8f2","fromNode":"9d7335c68e7aa62a","fromSide":"right","toNode":"65a1fb5470aa5b37","toSide":"left","label":"/validate"},
+		{"id":"538e7da409e484cb","fromNode":"65a1fb5470aa5b37","fromSide":"right","toNode":"d7d0ee819ccd9cc8","toSide":"left","label":"/about"},
+		{"id":"b00e808f0591840c","fromNode":"65a1fb5470aa5b37","fromSide":"right","toNode":"8dfb0c677c56c54d","toSide":"left","label":"/about"},
+		{"id":"831f9c5def837bea","fromNode":"65a1fb5470aa5b37","fromSide":"right","toNode":"0ab64024c57bcd2f","toSide":"left","label":"/about"},
+		{"id":"114db611411c3ca0","fromNode":"d7d0ee819ccd9cc8","fromSide":"left","toNode":"65a1fb5470aa5b37","toSide":"right"},
+		{"id":"3e4696c94919637e","fromNode":"8dfb0c677c56c54d","fromSide":"left","toNode":"65a1fb5470aa5b37","toSide":"right"},
+		{"id":"ed3b48b601457286","fromNode":"0ab64024c57bcd2f","fromSide":"left","toNode":"65a1fb5470aa5b37","toSide":"right"}
+	]
+}
